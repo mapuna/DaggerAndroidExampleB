@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">DaggerAndroid</string>
+    <string name="name">Name</string>
+    <string name="input">Input</string>
+    <string name="enter">Enter</string>
+</resources>

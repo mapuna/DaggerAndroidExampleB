@@ -1,0 +1,1 @@
+Example B used for teaching a class on Modern OOP. This example uses Dagger2 and Dagger-Android to show DI ideas and "good practices".
